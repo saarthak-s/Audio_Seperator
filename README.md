@@ -32,4 +32,4 @@ This project aims to provide a simple implementation of source separation for mu
 ## Credits
 
 - Spleeter: [Github Repository](https://github.com/deezer/spleeter)
-- Created by [Your Name]
+- Created by Saarthak Srivastav
